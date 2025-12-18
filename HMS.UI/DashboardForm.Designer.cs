@@ -53,6 +53,7 @@
             btnOPD.TabIndex = 1;
             btnOPD.Text = "OPD Registration";
             btnOPD.UseVisualStyleBackColor = true;
+            btnOPD.Click += btnOPD_Click;
             // 
             // btnIPD
             // 

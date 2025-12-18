@@ -3,19 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE2A720C-8417-4330-98B2-6A088FF100E5}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE2A720C-8417-4330-98B2-6A088FF100E5}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\opdregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\opdregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE2A720C-8417-4330-98B2-6A088FF100E5}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE2A720C-8417-4330-98B2-6A088FF100E5}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE2A720C-8417-4330-98B2-6A088FF100E5}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE2A720C-8417-4330-98B2-6A088FF100E5}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE2A720C-8417-4330-98B2-6A088FF100E5}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\opdregistrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\opdregistrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\opdregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\opdregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|c:\\users\\naik\u0027s\\source\\repos\\hms.ui\\hms.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C66168-5782-6351-3B99-8EF50259C5EC}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2A720C-8417-4330-98B2-6A088FF100E5}|HMS.UI\\HMS.UI.csproj|C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\hms.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DE2A720C-8417-4330-98B2-6A088FF100E5}|HMS.UI\\HMS.UI.csproj|solutionrelative:hms.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,8 +42,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OPDRegistrationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\OPDRegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "HMS.UI\\OPDRegistrationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\OPDRegistrationForm.Designer.cs",
+              "RelativeToolTip": "HMS.UI\\OPDRegistrationForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:38:49.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "HMS.UI\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\LoginForm.Designer.cs",
+              "RelativeToolTip": "HMS.UI\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAHcAAABAAAAAAMAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:40:15.091Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,10 +78,22 @@
               "RelativeDocumentMoniker": "HMS.UI\\DashboardForm.cs",
               "ToolTip": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\DashboardForm.cs",
               "RelativeToolTip": "HMS.UI\\DashboardForm.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T18:27:01.985Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OPDRegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\OPDRegistrationForm.cs",
+              "RelativeDocumentMoniker": "HMS.UI\\OPDRegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\OPDRegistrationForm.cs [Design]",
+              "RelativeToolTip": "HMS.UI\\OPDRegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:33:17.636Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -50,33 +104,45 @@
               "ToolTip": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\DashboardForm.cs [Design]",
               "RelativeToolTip": "HMS.UI\\DashboardForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T18:10:16.873Z",
+              "WhenOpened": "2025-12-18T13:34:17.961Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "OPDRegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\OPDRegistrationForm.cs",
+              "RelativeDocumentMoniker": "HMS.UI\\OPDRegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\OPDRegistrationForm.cs",
+              "RelativeToolTip": "HMS.UI\\OPDRegistrationForm.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA8wGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:37:22.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\LoginForm.cs",
               "RelativeDocumentMoniker": "HMS.UI\\LoginForm.cs",
               "ToolTip": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\LoginForm.cs",
               "RelativeToolTip": "HMS.UI\\LoginForm.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAABozMzMzEwewB4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T18:04:16.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\LoginForm.cs",
               "RelativeDocumentMoniker": "HMS.UI\\LoginForm.cs",
               "ToolTip": "C:\\Users\\Naik\u0027s\\source\\repos\\HMS.UI\\HMS.UI\\LoginForm.cs [Design]",
               "RelativeToolTip": "HMS.UI\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T17:56:49.179Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-17T17:56:49.179Z"
             }
           ]
         }

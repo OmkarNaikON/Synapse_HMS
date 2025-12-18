@@ -22,5 +22,11 @@ namespace HMS.UI
             this.Close();
         }
 
+        private void btnOPD_Click(object sender, EventArgs e)
+        {
+            OPDRegistrationForm opd = new OPDRegistrationForm();
+            opd.ShowDialog();
+        }
+
     }
 }
