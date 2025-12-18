@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5L/atQkK4Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Naik's\\source\\repos\\HMS.UI\\HMS.UI\\HMS.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naik's\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Naik's\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
